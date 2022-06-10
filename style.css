@@ -1,0 +1,100 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    outline: none;
+    @import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+    font-family: 'Roboto', sans-serif;
+}
+
+body {
+    background-color: white;
+
+}
+
+
+.header_one {
+    padding-left: 780px;
+    left: 500px;
+    color: black;
+    font-weight: bold;
+    font-size: 44px;
+}
+
+.header_two {
+    padding-left: 750px;
+    color: black;
+    font-weight: bold;
+}
+
+.header_t {
+    padding-left: 15px;
+    color: black;
+    font-weight: bold;
+}
+
+.father {
+    background-color: white;
+    margin: 0 550px;
+    width: 600px;
+    height: 650px;
+    display: flex;
+}
+
+.left {
+    background-color: white;
+    padding-left: 100px;
+    padding-top: 10px;
+    position: relative;
+}
+
+.right {
+    background-color: white;
+    padding-left: 20px;
+}
+
+p {
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+span {
+    color: white;
+}
+
+.span_two {
+    color: red;
+}
+
+input {
+    height: 40px;
+    width: 277px;
+    left: 0px;
+    top: 0px;
+    border-radius: 4px;
+    margin-bottom: 15px;
+    border: #949494 1px solid;
+    font-weight: bold;
+    font-size: 35px;
+    Padding: 20px, 0px, 20px, 12px
+}
+
+button {
+    margin-top: 5px;
+    margin-left: 800px;
+    height: 59px;
+    width: 277px;
+    left: 725px;
+    top: 0px;
+    border-radius: 4px;
+    padding: 20px, 12px, 20px, 12px;
+    color: black;
+}
+
+.inp_p {
+    border: 2px solid red;
+}
+
+.inp {
+    border: 2px solid #4200FF;
+}
